@@ -1,5 +1,5 @@
 # Proyecto: [Modulación en Python]
-# Estudiante: Prof. Andrés
+# Estudiante: Dinner Rodríguez Méndez
 # Fecha de Inicio: [04/02/2025]
 # Fecha de Entrega: [04/02/2025]
 # Descripción: Este archivo contiene el punto de entrada principal del proyecto.
