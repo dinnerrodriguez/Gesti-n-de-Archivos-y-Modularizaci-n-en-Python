@@ -14,3 +14,5 @@ def generar_lista_de_compras():
     }
     seleccion = random.sample(list(productos.items()),k=5) # Selecciona 5 prodcuntos de la lista de compras
     return seleccion
+
+   
